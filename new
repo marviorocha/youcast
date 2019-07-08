@@ -39,9 +39,9 @@ new_episode = <<~RSS
   <title><![CDATA[#{title}]]></title>
   <description><![CDATA[<p>Original video: #{url}</p>]]></description>
   <link>#{url}</link>
-  <guid isPermaLink="false">yt2podcast-#{time}</guid>
+  <guid isPermaLink="false">youcast - #{time}</guid>
   <pubDate>#{pub_date}</pubDate>
-  <enclosure url="http://lucascaton.github.io/yt2podcast/episodes/#{file_name}" type="audio/mpeg"/>
+  <enclosure url="http://marviorocha.github.io/youcast/episodes/#{file_name}" type="audio/mpeg"/>
 </item>
 RSS
 

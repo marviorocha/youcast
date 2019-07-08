@@ -11,7 +11,7 @@
     <description><![CDATA[yt2podcast]]></description>
     <link>https://github.com/lucascaton/yt2podcast</link>
 
-		<lastBuildDate>Sun, 7 Jul 2019 00:40:35</lastBuildDate>
+		<lastBuildDate>Mon, 8 Jul 2019 13:00:58</lastBuildDate>
 
 		<atom:link href="http://lucascaton.github.io/yt2podcast/feed.rss" rel="self" type="application/rss+xml"/>
 		<copyright><![CDATA[LC]]></copyright>
@@ -31,6 +31,14 @@
   <guid isPermaLink="false">youcast - 2019-07-07-00-40</guid>
   <pubDate>Sun, 7 Jul 2019 00:40:35</pubDate>
   <enclosure url="http://marviorocha.github.io/youcast/episodes/2019-07-07-00-40 - Dawn For Strings Original Composer by Rebecca Y.m4a" type="audio/mpeg"/>
+</item>
+<item>
+  <title><![CDATA[10 Phrasal Verbs with CHECK - check in, check out, check for...]]></title>
+  <description><![CDATA[<p>Original video: https://www.youtube.com/user/EnglishLessons4U</p>]]></description>
+  <link>https://www.youtube.com/user/EnglishLessons4U</link>
+  <guid isPermaLink="false">youcast - 2019-07-08-13-00</guid>
+  <pubDate>Mon, 8 Jul 2019 13:00:58</pubDate>
+  <enclosure url="http://marviorocha.github.io/youcast/episodes/2019-07-08-13-00 - 10 Phrasal Verbs with CHECK - check in, check out, check for....m4a" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
